@@ -9,7 +9,7 @@ Computer Science @ Minerva '29 · from 🇰🇿 Astana, based in 🌉 San Franci
 ### 🔭 Building now
 
 - **[Zhol](https://github.com/aiarunkn/zhol)** — B2B freight marketplace connecting shippers and carriers directly, no broker in between. Registered ТОО in Kazakhstan; live customer discovery and first carriers onboarded.
-- **Vibe Coding Astana** — teaching AI-assisted / no-code creation to a paid pilot cohort. Getting more people to *build*, not just consume.
+- **AI Consensus Astana** — teaching AI-assisted / no-code creation to a paid pilot cohort. Getting more people to *build*, not just consume.
 
 ### 🧰 Selected work
 
