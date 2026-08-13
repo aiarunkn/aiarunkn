@@ -1,6 +1,4 @@
-<h3 align="left">Hi, I'm Rue 👋</h3>
-
-Solo founder of **Zhol** · freelance dev for SMBs · building **Vibe Coding Astana**
+<h3 align="left">Hi, I'm Aiaru 👋</h3>
 
 I ship AI-powered products end to end — from customer discovery to deploy. Most of what I build shares one obsession: **disintermediation** — cutting out the middle layer so people (and now, agents) can exchange value directly.
 
