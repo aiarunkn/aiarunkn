@@ -2,7 +2,7 @@
 
 I ship AI-powered products end to end — from customer discovery to deploy. Most of what I build shares one obsession: **disintermediation** — cutting out the middle layer so people (and now, agents) can exchange value directly.
 
-Business + Computational Sciences @ Minerva '29 · between 🇰🇿 Astana and 🌉 San Francisco.
+Computer Science @ Minerva '29 · from 🇰🇿 Astana, based in 🌉 San Francisco.
 
 ---
 
